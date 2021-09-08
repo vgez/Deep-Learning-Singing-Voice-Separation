@@ -15,8 +15,8 @@ The final project in the course **DT2119 Speech and Speaker Recognition** at KTH
 
 ## Technologies
 
--   [Python 3](https://www.python.org/)
--   [TensorFlow 2](https://www.tensorflow.org/)
+-   [Python3](https://www.python.org/)
+-   [TensorFlow2](https://www.tensorflow.org/)
 -   [Keras](https://keras.io/)
 -   [SciPy](https://www.scipy.org/)
 -   [Librosa](https://librosa.org/doc/latest/index.html)
