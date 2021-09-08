@@ -31,4 +31,4 @@ More details available in the <a href="https://github.com/vgez/Deep-Learning-Sin
 
 ## Visual Data Representation
 
-![data_rep](https://github.com/Frosslund/Deep-Learning-Singing-Voice-Separation/blob/main/images/data_rep.png?raw=true)
+![data_rep](https://github.com/vgez/Deep-Learning-Singing-Voice-Separation/blob/main/images/data_rep.png?raw=true)
