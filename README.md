@@ -1,16 +1,16 @@
 # Singing Voice Separation in Musical Arrangements Using a Deep U-Net Convolutional Neural Network
 
-Final project in the course DT2119 Speech and Speaker Recognition at KTH Royal Institute of Technology. Project focused on the task of separating the singing voice from the remaining arrangements in music. STFT- and Log Mel Spectrum-representations of musical data were fed into a modified U-Net CNN, and common metrics within the research field were utilized for evaluation. Data augmentations methods were analyzed and compared.
+The final project in the course DT2119 Speech and Speaker Recognition at KTH Royal Institute of Technology. The project focused on the task of separating the singing voice from the background arrangements in music. STFT- and Log Mel Spectrum-representations of musical data were fed into a modified U-Net CNN, and common metrics within the research field were utilized for evaluation. Data augmentations methods were analyzed and compared.
 
 ## Team Members
 
 <ul>
     <li>
-        <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
-    </li>
-    <li>
         <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
     </li>  
+    <li>
+        <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
+    </li>
 </ul>
 
 ## Technologies
