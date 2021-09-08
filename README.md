@@ -27,7 +27,7 @@ The _MUSDB18_ dataset was used for this project. Preprocessing of the data inclu
 
 _Pitch Shifting_, _Time Stretching_ and _Random Amplitude Scaling_ were all used and compared as augmentations methods. The _binary cross-entropy loss_ was used as our loss function. As evaluation metrics, _SAR_ and _SDR_ was implemented.
 
-More details available in the <a href="https://github.com/vgez/Deep-Learning-Singing-Voice-Separation/blob/main/Project_Report_DT2119.pdf">project report</a>
+More details available in the <a href="https://github.com/vgez/Deep-Learning-Singing-Voice-Separation/blob/main/Project_Report_DT2119.pdf">project report</a>.
 
 ## Visual Data Representation
 
