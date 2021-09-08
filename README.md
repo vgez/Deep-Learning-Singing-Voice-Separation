@@ -6,10 +6,10 @@ The final project in the course DT2119 Speech and Speaker Recognition at KTH Roy
 
 <ul>
     <li>
-        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
+        <strong>Valdemar Gezelius</strong>
     </li>  
     <li>
-        <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
+        <strong>Lukas Frösslund</strong>
     </li>
 </ul>
 
